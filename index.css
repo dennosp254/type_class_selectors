@@ -1,0 +1,38 @@
+.summary {
+    border: 1px solid green;
+}
+.description {
+    color: rgb(0, 0, 255);
+    text-align: left;
+    border: 1px solid green;
+}
+.center {
+    color: blue;
+    text-align: center;
+}
+p.description {
+    color: red;
+}
+.questions {
+    color: #fff;
+    border: solid 1px blue;
+    width: fit-content;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: blue;
+    cursor: pointer;
+}
+#synopsis {
+    background-color: yellow;
+}
+#quote {
+    padding: 20px;
+    line-height: 0.7em;
+}
+body {
+    color: blue;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid brown;
+    background-color: lightgrey;
+}
